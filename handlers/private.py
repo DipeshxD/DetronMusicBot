@@ -11,7 +11,7 @@ async def start(_, message: Message):
     await message.reply_text(
         f"""**Hey, I'm {bn} 🎵
 
-I can play music in your group's voice call. Developed by [Shinchan For Mafia support](https://t.me/MafiaBot_Support).
+I can play music in your group's voice call. Developed by [𝘿𝙄𝙋𝙀𝙎𝙃](https://t.me/DIPESH_XD).
 
 Add me to your group and play music freely!**
         """,
@@ -19,17 +19,17 @@ Add me to your group and play music freely!**
             [
                 [
                     InlineKeyboardButton(
-                        "🛠 Source Code 🛠", url="https://github.com/Shinchan7222/MAFIAMUSICBOT")
+                        "🛠 Source Code 🛠", url="https://github.com/xdipesh/DetronMusicBot")
                   ],[
                     InlineKeyboardButton(
-                        "💬 Group", url="https://t.me/MafiaBot_Chit_Chat"
+                        "💬 Group", url="https://t.me/BEST_FRIENDS69"
                     ),
                     InlineKeyboardButton(
-                        "🔊 Channel", url="https://t.me/MafiaBot_Support"
+                        "🔊 Channel", url="https://t.me/AboutDipesh"
                     )
                 ],[ 
                     InlineKeyboardButton(
-                        "❗IF ANY PROBLEM CLICK HERE❗", url="https://t.me/Shinchan7222"
+                        "❗IF ANY PROBLEM CLICK HERE❗", url="https://t.me/DIPESH_XD"
                     )]
             ]
         ),
@@ -43,7 +43,7 @@ async def gstart(_, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "🔊 Channel", url="https://t.me/MafiaBot_Support")
+                        "🔊 Channel", url="https://t.me/AboutDipesh")
                 ]
             ]
         )
