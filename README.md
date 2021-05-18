@@ -30,6 +30,6 @@ Get STRING_NAME from here:
 
 ## Credits
 
-- [Shinchan](https://github.com/Shinchan7222): main developer
+- [𝘿𝙄𝙋𝙀𝙎𝙃](https://github.com/xdipesh): main developer
 - [Laky](https://github.com/Laky-64) & [Andrew](https://github.com/AndrewLaneX): PyTgCalls
 - [Original Repo](https://github.com/suprojects/CallsMusic)
