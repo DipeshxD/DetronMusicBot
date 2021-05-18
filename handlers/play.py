@@ -28,7 +28,7 @@ async def play(_, message: Message):
                 [
                     InlineKeyboardButton(
                         text="🔊 Channel",
-                        url="https://t.me/MafiaBot_Support")
+                        url="https://t.me/AboutDipesh")
                    
                 ]
             ]
