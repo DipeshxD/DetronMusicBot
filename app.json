@@ -4,7 +4,7 @@
   "keywords": ["music", "voicechat", "telegram"],
   "website": "https://github.com/xdipesh/DetronMusicBot",
   "repository": "https://github.com/xdipesh/DetronMusicBot",
-  "logo": "https://telegra.ph/file/0dec49159ccbf67cff420.jpg",
+  "logo": "https://telegra.ph/file/e4b2c5426697cfc849a0b.jpg",
   "stack": "container",
   "env": {
     "SESSION_NAME": {
