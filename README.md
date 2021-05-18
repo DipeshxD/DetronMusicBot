@@ -13,7 +13,7 @@
 
 <h3 align="centre"> Heroku </h4>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/xdipesh/DetronMusicBot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/xdipesh/DetronMusicBot/)
 
 Get STRING_NAME from here:
 
