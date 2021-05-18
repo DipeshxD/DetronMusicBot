@@ -26,9 +26,9 @@ async def helper(ok, message: Message):
 /resume ▶️To continue The song
 
         💝❤️🧡💛💚💙💜🤎🖤❤️
-        🤍 @MafiaBot_Support 🤍
+        🤍@BEST_FRIENDS69🤍
         💝❤️🧡💛💚💙💜🤎🖤❤️""")
 
 @Client.on_message(command("help") & other_filters)
 async def ghelp(_, message: Message):
-    await message.reply_text(f"**{bn} :-** Hey! [DM](http://t.me/MAFIA_MUSIC_ROBOT?start=help_) me to get all the commands 😉")
+    await message.reply_text(f"**{bn} :-** Hey! [DM](http://t.me/DetronMusicBot?start=help_) me to get all the commands 😉")
