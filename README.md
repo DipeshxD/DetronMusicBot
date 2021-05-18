@@ -1,6 +1,6 @@
 <h1 align="centre">🎶 DetronMusicBot 🎶</h1>
 
-[![DETRONBOT LOGO](https://telegra.ph/file/0dec49159ccbf67cff420.jpg)](https://t.me/BEST_FRIENDS69)
+[![DETRONBOT LOGO](https://telegra.ph/file/e4b2c5426697cfc849a0b.jpg)](https://t.me/BEST_FRIENDS69)
 
 ## Requirements 📝
 
