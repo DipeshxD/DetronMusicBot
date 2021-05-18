@@ -1,10 +1,10 @@
 {
-  "name": "Mafiamusicbot",
+  "name": "Detronmusicbot",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
-  "website": "https://github.com/Shinchan7222/MAFIAMUSICBOT",
-  "repository": "https://github.com/Shinchan7222/MAFIAMUSICBOT",
-  "logo": "https://telegra.ph/file/938c1c08c53972280185c.jpg",
+  "website": "https://github.com/xdipesh/DetronMusicBot",
+  "repository": "https://github.com/xdipesh/DetronMusicBot",
+  "logo": "https://telegra.ph/file/0dec49159ccbf67cff420.jpg",
   "stack": "container",
   "env": {
     "SESSION_NAME": {
@@ -21,11 +21,11 @@
       "value": ""
     },
     "API_ID": {
-      "description": "App ID from @Mafia_api_hash_extractorBot",
+      "description": "App ID from https://my.telegram.org",
       "required": true
     },
     "API_HASH": {
-      "description": "App hash from @Mafia_api_hash_extractorBot",
+      "description": "App hash from https://my.telegram.org",
       "required": true
     },
     "SUDO_USERS": {
